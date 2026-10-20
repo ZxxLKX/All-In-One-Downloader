@@ -1,30 +1,54 @@
-🚀 BBosCat AIO Downloader
+<div align="center">
 
-«All-In-One Media Downloader — satu aplikasi untuk mengunduh berbagai media dari berbagai platform dalam satu tempat.»
+<img src="https://files.catbox.moe/s4ihly.jpg" alt="BBosCat Logo" width="150">
 
-![BBosCat AIO Downloader](https://files.catbox.moe/yzqzo6.jpg)
-📥 Tentang
+# BBosCat AIO Downloader
 
-BBosCat AIO Downloader adalah aplikasi downloader serbaguna yang dirancang untuk memudahkan pengguna mengunduh berbagai jenis media dari platform populer seperti:
+**All-In-One Media Downloader**
 
-- 🎵 Spotify
-- 🎬 YouTube
-- 🎵 TikTok
-- 📘 Facebook
-- 📸 Instagram
-- 🌐 Dan berbagai platform lainnya
+Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan platform lainnya dalam satu aplikasi.
 
-Cukup tempelkan link, pilih media atau kualitas yang tersedia, kemudian proses download.
+<br>
 
-✨ Fitur
+<a href="https://github.com/ZxxLKX/All-In-One-Downloader/releases/download/V.2.1/BBosCat.Downloader_2.1.apk">
+  <img src="https://img.shields.io/badge/DOWNLOAD-APK_v2.1-7B2DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download BBosCat APK">
+</a>
 
-- ⚡ Download media dengan cepat
-- 🌐 Mendukung berbagai platform
-- 🎥 Video & audio downloader
-- 🖼️ Mendukung media gambar
-- 📱 Tampilan responsif
-- 🎨 UI modern dan mudah digunakan
-- 🔗 Sistem berbasis URL
-- 🚀 All-in-One dalam satu platform
+<br><br>
 
-«BBosCat — Download Anything, Anywhere.»
+![Version](https://img.shields.io/badge/Version-2.1-7B2DFF?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square)
+![License](https://img.shields.io/badge/License-Check_Repository-blue?style=flat-square)
+
+</div>
+
+---
+
+## ✨ Features
+
+- 🎬 Download video dari berbagai platform
+- 🎵 Download audio dan musik
+- 🖼️ Download gambar dan media lainnya
+- ⚡ Praktis, cukup masukkan link
+- 📱 Tampilan modern dan responsif
+- 🌐 Mendukung berbagai platform media sosial
+
+## 📥 Installation
+
+1. Klik tombol **DOWNLOAD APK** di atas.
+2. Tunggu hingga file APK selesai diunduh.
+3. Buka file APK di perangkat Android.
+4. Izinkan instalasi dari sumber tersebut jika diminta.
+5. Selesaikan instalasi dan mulai gunakan BBosCat.
+
+## ⚠️ Disclaimer
+
+Gunakan aplikasi ini secara bijak. Pastikan proses pengunduhan mematuhi ketentuan platform terkait dan menghormati hak cipta pemilik konten.
+
+---
+
+<div align="center">
+
+**BBosCat — Download Anything, Anywhere.**
+
+</div>
