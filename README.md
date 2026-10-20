@@ -24,6 +24,16 @@ Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan 
 
 ---
 
+## 📱 Tampilan Aplikasi
+
+<div align="center">
+
+<img src="https://files.catbox.moe/yzqzo6.jpg" alt="Preview BBosCat AIO Downloader" width="300">
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 🎬 Download video dari berbagai platform
@@ -40,6 +50,7 @@ Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan 
 3. Buka file APK di perangkat Android.
 4. Izinkan instalasi dari sumber tersebut jika diminta.
 5. Selesaikan instalasi dan mulai gunakan BBosCat.
+
 ---
 
 <div align="center">
