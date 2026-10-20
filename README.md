@@ -28,7 +28,7 @@ Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan 
 
 <div align="center">
 
-<img src="https://files.catbox.moe/yzqzo6.jpg" alt="Preview BBosCat AIO Downloader" width="300">
+<img src="https://files.catbox.moe/d6z1n3.jpg" alt="Preview BBosCat AIO Downloader" width="300">
 
 </div>
 
