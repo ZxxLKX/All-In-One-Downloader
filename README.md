@@ -40,11 +40,6 @@ Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan 
 3. Buka file APK di perangkat Android.
 4. Izinkan instalasi dari sumber tersebut jika diminta.
 5. Selesaikan instalasi dan mulai gunakan BBosCat.
-
-## ⚠️ Disclaimer
-
-Gunakan aplikasi ini secara bijak. Pastikan proses pengunduhan mematuhi ketentuan platform terkait dan menghormati hak cipta pemilik konten.
-
 ---
 
 <div align="center">
