@@ -10,13 +10,13 @@ Download berbagai media dari TikTok, YouTube, Facebook, Instagram, Spotify, dan 
 
 <br>
 
-<a href="https://github.com/ZxxLKX/All-In-One-Downloader/releases/download/V.2.1/BBosCat.Downloader_2.1.apk">
+<a href="https://github.com/ZxxLKX/All-In-One-Downloader/releases/download/V2.2/BBosCat.Downloader_2.2.apk">
   <img src="https://img.shields.io/badge/DOWNLOAD-APK_v2.1-7B2DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download BBosCat APK">
 </a>
 
 <br><br>
 
-![Version](https://img.shields.io/badge/Version-2.1-7B2DFF?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2.2-7B2DFF?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-Check_Repository-blue?style=flat-square)
 
